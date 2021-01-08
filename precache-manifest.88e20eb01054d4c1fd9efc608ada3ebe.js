@@ -1,55 +1,67 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "045704b7f7c4fcc24ddea7588bca909d",
+    "revision": "3364de7b9d3ead5e6cdca644578f90f3",
     "url": "/developerFolio/index.html"
   },
   {
-    "revision": "39a864ad1daeb7be51c1",
+    "revision": "112c6ff521590c41b240",
     "url": "/developerFolio/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "72f7d8b1d158d09049f9",
+    "revision": "ddcf11cba75616e8b82e",
     "url": "/developerFolio/static/css/4.a922a401.chunk.css"
   },
   {
-    "revision": "ebd6909f05624efc2c17",
+    "revision": "cc25511a68e54f6b9628",
     "url": "/developerFolio/static/css/main.0af99502.chunk.css"
   },
   {
-    "revision": "5b99299750ea48398f63",
-    "url": "/developerFolio/static/js/2.b80a3fd8.chunk.js"
+    "revision": "8f7d6e8f87e01d1a6fa3",
+    "url": "/developerFolio/static/js/2.ea048489.chunk.js"
   },
   {
     "revision": "0a6d64cd3b49be6a14afdf21fa7c6d43",
-    "url": "/developerFolio/static/js/2.b80a3fd8.chunk.js.LICENSE.txt"
+    "url": "/developerFolio/static/js/2.ea048489.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "39a864ad1daeb7be51c1",
-    "url": "/developerFolio/static/js/3.a151567e.chunk.js"
+    "revision": "112c6ff521590c41b240",
+    "url": "/developerFolio/static/js/3.a422a5f5.chunk.js"
   },
   {
-    "revision": "72f7d8b1d158d09049f9",
-    "url": "/developerFolio/static/js/4.4e9d4771.chunk.js"
+    "revision": "ddcf11cba75616e8b82e",
+    "url": "/developerFolio/static/js/4.4913fe56.chunk.js"
   },
   {
-    "revision": "ebd6909f05624efc2c17",
-    "url": "/developerFolio/static/js/main.2e321666.chunk.js"
+    "revision": "cc25511a68e54f6b9628",
+    "url": "/developerFolio/static/js/main.f00e42f7.chunk.js"
   },
   {
-    "revision": "905bba77e4c00f17f3a2",
-    "url": "/developerFolio/static/js/runtime-main.b68c3feb.js"
+    "revision": "9e3537a570f7871ac2b0",
+    "url": "/developerFolio/static/js/runtime-main.b07367ae.js"
+  },
+  {
+    "revision": "173a0c158f6d1156fb9d79806e2ceafc",
+    "url": "/developerFolio/static/media/AINLogo.173a0c15.png"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/developerFolio/static/media/Agustina.21f233e1.woff"
   },
   {
+    "revision": "0ad60f37336d43a174b5641009114823",
+    "url": "/developerFolio/static/media/DonapeaLogo.0ad60f37.png"
+  },
+  {
+    "revision": "2524513d91611e0269500abc79fe0e3b",
+    "url": "/developerFolio/static/media/HelixNorthLogo.2524513d.png"
+  },
+  {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/developerFolio/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "0d883be7aca385af4baf848d1ab4001c",
-    "url": "/developerFolio/static/media/UPNALogo.0d883be7.png"
+    "revision": "4a5f73c1bec72573676cb667e8eecb63",
+    "url": "/developerFolio/static/media/UPNALogoXS.4a5f73c1.png"
   },
   {
     "revision": "47a7a717679b640ceb1b05d38c480a61",
@@ -62,10 +74,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "59389695208d7454c6607bed51ed4316",
     "url": "/developerFolio/static/media/developerActivity.59389695.svg"
-  },
-  {
-    "revision": "8ddf76a14a2e3ad3ba62b46d49a75a74",
-    "url": "/developerFolio/static/media/facebookLogo.8ddf76a1.png"
   },
   {
     "revision": "e79c639294c805688be731921368c8f8",
