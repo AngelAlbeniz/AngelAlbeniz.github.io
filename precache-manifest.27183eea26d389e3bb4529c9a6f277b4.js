@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "03ad65c2484d08ea7f30b3211e10ad18",
+    "revision": "30ff77a64362b94e494fbe0915c6d239",
     "url": "/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.a922a401.chunk.css"
   },
   {
-    "revision": "5570399c006891f1585b",
-    "url": "/static/css/main.af23b6d0.chunk.css"
+    "revision": "6dbac260dc2a6681fec1",
+    "url": "/static/css/main.d17d8f85.chunk.css"
   },
   {
     "revision": "0da6a26dd7785c2c0623",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.d127ae1c.chunk.js"
   },
   {
-    "revision": "5570399c006891f1585b",
-    "url": "/static/js/main.f3a90967.chunk.js"
+    "revision": "6dbac260dc2a6681fec1",
+    "url": "/static/js/main.bf565b66.chunk.js"
   },
   {
     "revision": "2d4dd3ee8a5abd2cb228",
@@ -60,12 +60,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "4a5f73c1bec72573676cb667e8eecb63",
-    "url": "/static/media/UPNALogoXS.4a5f73c1.png"
+    "revision": "4b7a7ed184db5669a5e39485d40123d4",
+    "url": "/static/media/RANLogo.4b7a7ed1.png"
   },
   {
-    "revision": "47a7a717679b640ceb1b05d38c480a61",
-    "url": "/static/media/codeInLogo.47a7a717.webp"
+    "revision": "0259b923f90570eebb22c957ed77bbcb",
+    "url": "/static/media/TecnunLogo.0259b923.png"
+  },
+  {
+    "revision": "2f5f8ea622abd13d7dfbdceae348bd53",
+    "url": "/static/media/UNAVLogo.2f5f8ea6.png"
+  },
+  {
+    "revision": "58b575939f1b7c2135689fe850ae1eeb",
+    "url": "/static/media/UPNALogoXS.58b57593.png"
   },
   {
     "revision": "51cf7192327488da3d2a171280680c16",
@@ -76,10 +84,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/developerActivity.59389695.svg"
   },
   {
-    "revision": "e79c639294c805688be731921368c8f8",
-    "url": "/static/media/googleAssistantLogo.e79c6392.webp"
-  },
-  {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
   },
@@ -88,16 +92,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/nextuLogo.829ad0a1.webp"
   },
   {
-    "revision": "ee62cb58630f29a6e6201b49d4c03728",
-    "url": "/static/media/pwaLogo.ee62cb58.webp"
-  },
-  {
     "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
     "url": "/static/media/saayaHealthLogo.25018d29.webp"
   },
   {
-    "revision": "f90ff74d0ad708e823c1583f6666420f",
-    "url": "/static/media/skill.f90ff74d.svg"
+    "revision": "f2fcc85e845b212318d0f2718d5ce912",
+    "url": "/static/media/skill.f2fcc85e.svg"
   },
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
