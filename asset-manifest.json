@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.d17d8f85.chunk.css",
+    "main.css": "/static/css/main.3bc92b47.chunk.css",
     "main.js": "/static/js/main.bf565b66.chunk.js",
     "main.js.map": "/static/js/main.bf565b66.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.661f5af0.js",
@@ -14,14 +14,14 @@
     "static/js/4.d127ae1c.chunk.js": "/static/js/4.d127ae1c.chunk.js",
     "static/js/4.d127ae1c.chunk.js.map": "/static/js/4.d127ae1c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.27183eea26d389e3bb4529c9a6f277b4.js": "/precache-manifest.27183eea26d389e3bb4529c9a6f277b4.js",
+    "precache-manifest.325bb670baed1c96a75543c52d942994.js": "/precache-manifest.325bb670baed1c96a75543c52d942994.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.00373544.chunk.css.map": "/static/css/3.00373544.chunk.css.map",
     "static/css/4.a922a401.chunk.css.map": "/static/css/4.a922a401.chunk.css.map",
-    "static/css/main.d17d8f85.chunk.css.map": "/static/css/main.d17d8f85.chunk.css.map",
+    "static/css/main.3bc92b47.chunk.css.map": "/static/css/main.3bc92b47.chunk.css.map",
     "static/js/2.3a6459ae.chunk.js.LICENSE.txt": "/static/js/2.3a6459ae.chunk.js.LICENSE.txt",
     "static/media/AINLogo.png": "/static/media/AINLogo.173a0c15.png",
-    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/index.css": "/static/media/NothingYouCouldDo-Regular.5518c113.ttf",
     "static/media/DonapeaLogo.png": "/static/media/DonapeaLogo.0ad60f37.png",
     "static/media/HelixNorthLogo.png": "/static/media/HelixNorthLogo.2524513d.png",
     "static/media/RANLogo.png": "/static/media/RANLogo.4b7a7ed1.png",
@@ -39,7 +39,7 @@
   "entrypoints": [
     "static/js/runtime-main.661f5af0.js",
     "static/js/2.3a6459ae.chunk.js",
-    "static/css/main.d17d8f85.chunk.css",
+    "static/css/main.3bc92b47.chunk.css",
     "static/js/main.bf565b66.chunk.js"
   ]
 }
