@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.3bc92b47.chunk.css",
-    "main.js": "/static/js/main.d5deae18.chunk.js",
-    "main.js.map": "/static/js/main.d5deae18.chunk.js.map",
+    "main.js": "/static/js/main.aeb458cd.chunk.js",
+    "main.js.map": "/static/js/main.aeb458cd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9ef2f12d.js",
     "runtime-main.js.map": "/static/js/runtime-main.9ef2f12d.js.map",
     "static/js/2.acb8145b.chunk.js": "/static/js/2.acb8145b.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.eb3a209c.chunk.js": "/static/js/4.eb3a209c.chunk.js",
     "static/js/4.eb3a209c.chunk.js.map": "/static/js/4.eb3a209c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d78172e6dd4db0b55e34286f3018472f.js": "/precache-manifest.d78172e6dd4db0b55e34286f3018472f.js",
+    "precache-manifest.e841be78aab91ff73328eedf04d2265b.js": "/precache-manifest.e841be78aab91ff73328eedf04d2265b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.00373544.chunk.css.map": "/static/css/3.00373544.chunk.css.map",
     "static/css/4.a922a401.chunk.css.map": "/static/css/4.a922a401.chunk.css.map",
@@ -24,10 +24,10 @@
     "static/media/index.css": "/static/media/NothingYouCouldDo-Regular.5518c113.ttf",
     "static/media/DonapeaLogo.png": "/static/media/DonapeaLogo.0ad60f37.png",
     "static/media/HelixNorthLogo.png": "/static/media/HelixNorthLogo.2524513d.png",
-    "static/media/IEEE.png": "/static/media/IEEE.73b29669.png",
-    "static/media/RANLogo.png": "/static/media/RANLogo.4b7a7ed1.png",
-    "static/media/TecnunLogo.png": "/static/media/TecnunLogo.0259b923.png",
-    "static/media/UNAVLogo.png": "/static/media/UNAVLogo.2f5f8ea6.png",
+    "static/media/IEEE.png": "/static/media/IEEE.71af927c.png",
+    "static/media/RANLogo.png": "/static/media/RANLogo.11cfb2f7.png",
+    "static/media/TecnunLogo.png": "/static/media/TecnunLogo.b850530c.png",
+    "static/media/UNAVLogo.png": "/static/media/UNAVLogo.909cc823.png",
     "static/media/UPNALogoXS.png": "/static/media/UPNALogoXS.58b57593.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
@@ -41,6 +41,6 @@
     "static/js/runtime-main.9ef2f12d.js",
     "static/js/2.acb8145b.chunk.js",
     "static/css/main.3bc92b47.chunk.css",
-    "static/js/main.d5deae18.chunk.js"
+    "static/js/main.aeb458cd.chunk.js"
   ]
 }
